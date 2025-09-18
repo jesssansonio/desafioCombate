@@ -21,7 +21,6 @@ public class Main {
 
         System.out.println("Digite os dados do segundo campeão:");
         System.out.print("Nome: ");
-        scanner.nextLine(); // variableAssistant
         String name2 = scanner.nextLine();
         System.out.print("Vida inicial: ");
         int lifeInitial2 = scanner.nextInt();
